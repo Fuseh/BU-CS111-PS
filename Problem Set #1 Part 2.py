@@ -128,4 +128,4 @@ def statistics(list_of_int):
 list_of_int = [2,8,7]
 print(statistics(list_of_int))
 
-
+print("*************************************************************************")
